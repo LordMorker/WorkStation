@@ -157,13 +157,13 @@ input::placeholder{
         height: 5rem;
     }
 }
-@media (max-width: 376px) {
+@media (max-width: 520px) {
     body {
-        width: 23.5rem;
+        width: 32.5rem;
         height: 58.35rem;
     }
     .encabezado {
-        margin-top: 1.5rem;
+        margin-top: 1rem;
     }
     .contenedor_contenido_neto {
         padding-top: 25rem;
